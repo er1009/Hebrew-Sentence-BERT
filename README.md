@@ -18,6 +18,12 @@ You can access and run the Colab notebook for this project using the following l
 
 [Open the Colab Notebook](https://colab.research.google.com/drive/1Ns1NKXu0xdpkyG9FBdLvZ5lAyAcm7cpb?usp=sharing)
 
+## Project Report
+
+For a detailed explanation of the project, including the methodology, experiments, and results, you can access the full project report here:
+
+[Project Report](https://drive.google.com/file/d/16txG8kNw3rzgxxao_2YoHAlT3U41glC-/view?usp=sharing)
+
 ## Data
 
 The datasets used in this project include:
